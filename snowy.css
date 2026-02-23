@@ -194,4 +194,8 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
     content: url('Lioden logo replacement');
 }
 
+/* Custom Cursor */
+body, * {
+    cursor: url('https://www.cursor.cc/cursor/220/26/cursor.png'), auto;
+}
 /* KEEP ALL OTHER ORIGINAL FUNCTIONALITY INTACT */
