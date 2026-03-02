@@ -26,8 +26,8 @@ body::before {
     height: 140%;
     pointer-events: none;
     background-image: 
-        url('https://www.citypng.com/public/uploads/preview/christmas-winter-snowflake-glass-hd-png-704081694963313jhhvk1zzlw.png'),
-        url('https://www.citypng.com/public/uploads/preview/christmas-winter-snowflake-glass-hd-png-704081694963313jhhvk1zzlw.png');
+        url('blank'),
+        url('blank');
     background-repeat: repeat, repeat;
     background-size: 70px, 40px;
     animation: sunflowerFall 25s linear infinite,
